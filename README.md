@@ -30,12 +30,12 @@ This project implements **Modern Portfolio Theory (MPT)** on live portfolio hold
 ### ✅ Portfolio Allocation Pie Chart
 Displays percentage weight of each stock in your portfolio based on market value.
 
-![Portfolio Pie Chart](assets/portfolio_pie.png)<!-- Replace with actual image path -->
-
+![Portfolio Pie Chart](assests/pie.png)<!-- Replace with actual image path -->
+assests/pie.png
 ### 📈 Efficient Frontier with Max Sharpe & Min Volatility Points
 Each dot represents a portfolio simulation. The star markers highlight optimal portfolios.
 
-![Efficient Frontier](assets/efficient_frontier.png) <!-- Replace with actual image path -->
+![Efficient Frontier](assests/EF.png) <!-- Replace with actual image path -->
 
 ---
 
@@ -51,4 +51,5 @@ Each dot represents a portfolio simulation. The star markers highlight optimal p
 
 ## 🧪 Sample Output
 
+![Final](assests/last.png)
 
